@@ -7,9 +7,9 @@
 # About Me
 <br/>
 - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
+- 🌱 Proficient in front-end technologies like React.js, Next.js, Angular, and Vue.js, as well as back-end technologies like Node.js, Express.js, and Python<br/>
+- 😍 Expertise in WebGL, Three.js, Blender. Unity 3D games.<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 <br/><br/>
 <!-- - 🤔 I’m looking for a job ... -->
