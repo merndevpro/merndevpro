@@ -6,11 +6,11 @@
 
 # About Me
 <br/>
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
+- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications.<br/>
 - 🌱 React.js, Next.js, Angular, Vue.js for frontend, and Node.js, Express.js, Nest.js, RestfulAPI for backend.<br/>
 - ⚡ Android, iOS developement with React Native, Ionic, Flutter, Swift, Kotlin.<br/>
 - 😍 Three.js, Babylon.js, Blender, Unity, 3Ds Max, Gsap for WebGL & 3D Games.<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 <br/><br/>
 <!-- - 🤔 I’m looking for a job ... -->
