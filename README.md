@@ -12,7 +12,7 @@
 - 😍 Three.js, Babylon.js, Blender, Unity, 3Ds Max, Gsap for WebGL & 3D Games.<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure.<br/>
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
-<br/><br/>
+<br/>
 <!-- - 🤔 I’m looking for a job ... -->
 </div>
 <div align="center">
